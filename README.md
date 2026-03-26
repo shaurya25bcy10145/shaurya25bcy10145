@@ -1,8 +1,7 @@
 Hi, I'm Shaurya Mishra  
 B.Tech CSE in Cybersecurity And Digital Forensics | 1st Year | VIT Bhopal  
 
-I am currently learning Java and aiming to build strong skills in software engineering.## Hi there 👋
-
+I am currently learning Java and aiming to build strong skills in software engineering.
 <!--
 **shaurya25bcy10145/shaurya25bcy10145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
